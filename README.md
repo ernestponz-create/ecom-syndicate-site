@@ -1,3 +1,3 @@
-# The Ecom Syndicate company website (preview)
+# The Ecom Syndicate company website
 
-Static site. Preview has `noindex` on every page; remove at launch.
+Static site served by GitHub Pages at https://ecomsyndicatehq.com/
